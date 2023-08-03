@@ -9,4 +9,4 @@ https://drive.google.com/drive/folders/1bGqhN0ukxCCs2xYGpgG9dWvMEISC43Gm?usp=sha
 
 3.3[サブネットワークの探索]の結果を再現するためのコードはcode/SupermaskResNetにあります
 
-3.4[サブネットワークの転用]の結果を再現するためのコードはcode/Transferにあります
+3.4[サブネットワークの転用]の結果を再現するためのコードはcode/Transfer/SuperWideResNet_Transferにあります
